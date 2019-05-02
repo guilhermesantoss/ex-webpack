@@ -1,2 +1,5 @@
+/public/*.png
+/public/*.css
+/public/*.js
 /node_modules
 *.log
